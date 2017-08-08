@@ -11360,6 +11360,19 @@ a.bd-backtotop-1:hover {
 .bd-layoutcontainer-25 {
   margin-top: 64px;
 }
+@media (max-width: 767px) {
+  .bd-layoutcontainer-25 {
+    margin-top: 10px;
+  }
+}
+.bd-layoutcontainer-25 > .bd-container-inner > .container-fluid:after {
+  display: none;
+}
+@media (max-width: 767px) {
+  .bd-layoutcontainer-25 > .bd-container-inner > .container-fluid > .row {
+    margin-top: 21px;
+  }
+}
 .bd-layoutcontainer-25 > .bd-container-inner > .container-fluid {
   padding-left: 0;
   padding-right: 0;
@@ -12896,6 +12909,11 @@ h1.bd-textblock-53 {
   margin-bottom: 64px;
   margin-top: 0px;
 }
+@media (max-width: 767px) {
+  .bd-textblock-60 {
+    margin-bottom: 10px;
+  }
+}
 h1.bd-textblock-60 {
   line-height: 51.42857144px;
   font-size: 36px;
@@ -12909,6 +12927,11 @@ h1.bd-textblock-60 {
   margin-top: 23px;
   height: 222px;
 }
+@media (max-width: 767px) {
+  .bd-textblock-62 {
+    height: 528px;
+  }
+}
 .bd-textblock-62 {
   color: #858585;
 }
@@ -12917,6 +12940,11 @@ h1.bd-textblock-60 {
 .bd-textblock-65 {
   margin-top: 23px;
   height: 230px;
+}
+@media (max-width: 767px) {
+  .bd-textblock-65 {
+    height: 580px;
+  }
 }
 .bd-textblock-65 {
   color: #858585;
@@ -12929,6 +12957,11 @@ h1.bd-textblock-60 {
   margin-top: 23px;
   height: 127px;
 }
+@media (max-width: 767px) {
+  .bd-textblock-69 {
+    height: 355px;
+  }
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazY5 {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazcw {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazcw {}
@@ -12937,6 +12970,11 @@ h1.bd-textblock-60 {
   margin-top: 23px;
   height: 125px;
 }
+@media (max-width: 767px) {
+  .bd-textblock-73 {
+    height: 277px;
+  }
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazcz {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazc0 {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazc0 {}
@@ -12944,6 +12982,11 @@ h1.bd-textblock-60 {
 .bd-textblock-75 {
   margin-top: 23px;
   height: 107px;
+}
+@media (max-width: 767px) {
+  .bd-textblock-75 {
+    height: 222px;
+  }
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazc1 {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazc2 {}
