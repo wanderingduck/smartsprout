@@ -11598,6 +11598,12 @@ a.bd-backtotop-1:hover {
   padding: 10px;
   border-bottom: 1px solid #57d175;
 }
+.bd-animation-1.animated.bounce {
+  -webkit-animation-duration: 1000ms;
+  animation-duration: 1000ms;
+  -webkit-animation-delay: 7000ms;
+  animation-delay: 7000ms;
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWxheW91dGJveDMx {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWxheW91dGJveDMy {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWxheW91dGJveDMy {}
