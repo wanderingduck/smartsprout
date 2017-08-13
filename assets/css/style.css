@@ -14217,6 +14217,11 @@ h1.bd-textblock-14 {
 .bd-textblock-144 {
   margin-top: 34px;
 }
+@media (max-width: 1199px) {
+  .bd-textblock-144 {
+    margin-top: 24px;
+  }
+}
 @media (max-width: 991px) {
   .bd-textblock-144 {
     margin-top: 14px;
@@ -14234,6 +14239,12 @@ h4.bd-textblock-144 {
   margin-top: 28px;
   margin-bottom: 34px;
 }
+@media (max-width: 1199px) {
+  .bd-textblock-145 {
+    margin-bottom: 24px;
+    margin-top: 19px;
+  }
+}
 @media (max-width: 991px) {
   .bd-textblock-145 {
     margin-top: 5px;
@@ -14250,6 +14261,11 @@ h2.bd-textblock-145 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE0Ng {}
 .bd-textblock-146 {
   margin-bottom: 28px;
+}
+@media (max-width: 1199px) {
+  .bd-textblock-146 {
+    margin-bottom: 19px;
+  }
 }
 @media (max-width: 991px) {
   .bd-textblock-146 {
