@@ -5,29 +5,57 @@
 	<script>
     var themeHasJQuery = !!window.jQuery;
 </script>
-<script type="text/javascript" src="./assets/js/jquery.js?1.0.1196"></script>
+<script type="text/javascript" src="./assets/js/jquery.js?1.0.1240"></script>
 <script>
     window._$ = jQuery.noConflict(themeHasJQuery);
 </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="./assets/css/bootstrap.css?1.0.1196" media="screen" />
-<script type="text/javascript" src="./assets/js/bootstrap.min.js?1.0.1196"></script>
+<link rel="stylesheet" href="./assets/css/bootstrap.css?1.0.1240" media="screen" />
+<script type="text/javascript" src="./assets/js/bootstrap.min.js?1.0.1240"></script>
 <!--[if lte IE 9]>
-<link rel="stylesheet" href="./assets/css/layout.ie.css?1.0.1196">
-<script src="./assets/js/layout.ie.js?1.0.1196"></script>
+<link rel="stylesheet" href="./assets/css/layout.ie.css?1.0.1240">
+<script src="./assets/js/layout.ie.js?1.0.1240"></script>
 <![endif]-->
 <link class="" href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&subset=latin' rel='stylesheet' type='text/css'>
 <script type="text/javascript" src="./assets/js/layout.core.js"></script>
-<script src="./assets/js/CloudZoom.js?1.0.1196"></script>
+<script src="./assets/js/CloudZoom.js?1.0.1240"></script>
 	
     <title>Test Code</title>
-	<link rel="stylesheet" href="./assets/css/style.css?1.0.1196">
-	<script src="./assets/js/script.js?1.0.1196"></script>
+	<link rel="stylesheet" href="./assets/css/style.css?1.0.1240">
+	<script src="./assets/js/script.js?1.0.1240"></script>
     <meta charset="utf-8">
     
     <a href="https://smartsprout.co.uk/free-consultation"> <div class="side-button" id="free-consultation"></div> </a>
     
     
+ <style>/* - - - - Test Video Background Styling - - - - */
+
+* { box-sizing: border-box; }
+.video-background {
+  background: #000;
+  position: fixed;
+  top: 0; right: 0; bottom: 0; left: 0;
+  z-index: -99;
+}
+.video-foreground,
+.video-background iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+
+@media (min-aspect-ratio: 16/9) {
+  .video-foreground { height: 300%; top: -100%; }
+}
+@media (max-aspect-ratio: 16/9) {
+  .video-foreground { width: 300%; left: -100%; }
+}
+
+/* - - - - End Video Background Styling - - - - */</style>
 </head>
 <body class=" bootstrap bd-body-7  bd-pagebackground  bd-margins">
     <header class=" bd-headerarea-1 bd-margins">
@@ -214,7 +242,42 @@
     
     <div class=" bd-htmlcontent-17 bd-margins" 
  data-page-id="page.32">
-    <section class=" bd-section-8 bd-tagstyles" id="section26" data-section-title="Section">
+    <section class=" bd-section-49 bd-page-width bd-tagstyles " id="section49" data-section-title="Section">
+    <div class="bd-container-inner bd-margins clearfix">
+        <div class=" bd-customhtml-21 bd-tagstyles">
+    <div class="bd-container-inner bd-content-element">
+        <div class="video-background">
+    <div class="video-foreground">
+      <iframe src="https://www.youtube.com/embed/AYmZaEVOIIs?controls=0&amp;showinfo=0&amp;rel=0&amp;autoplay=1&amp;loop=1&amp;playlist=AYmZaEVOIIs" poster="https://smartsprout.co.uk/smartsprout-background.jpg" frameborder="0" allowfullscreen=""></iframe>
+    </div>
+  </div>
+
+<div id="vidtop-contentx">
+<div class="vid-infox">
+</div>
+</div>
+    </div>
+</div>
+	
+		<div class=" bd-layoutbox-47 bd-no-margins clearfix">
+    <div class="bd-container-inner">
+        <h3 class=" bd-textblock-98 bd-no-margins bd-content-element">
+    Professional, affordable &amp; reliable
+</h3>
+	
+		<h2 class=" bd-textblock-68 bd-no-margins bd-content-element">
+    Digital Support
+</h2>
+	
+		<h4 class=" bd-textblock-102 bd-no-margins bd-content-element">
+    Build brand awareness, increase your website traffic and improve conversions
+</h4>
+    </div>
+</div>
+    </div>
+</section>
+	
+		<section class=" bd-section-8 bd-tagstyles" id="section26" data-section-title="Section">
     <div class="bd-container-inner bd-margins clearfix">
         <div class=" bd-customhtml-3 bd-tagstyles">
     <div class="bd-container-inner bd-content-element">
@@ -225,12 +288,6 @@
 		<h1 class=" bd-textblock-92 bd-content-element">
     What my clients are saying
 </h1>
-	
-		<div class=" bd-layoutbox-6 bd-no-margins clearfix">
-    <div class="bd-container-inner">
-        
-    </div>
-</div>
 	
 		<div class="bd-separator-8  bd-separator-center bd-separator-content-center clearfix" >
     <div class="bd-container-inner">
