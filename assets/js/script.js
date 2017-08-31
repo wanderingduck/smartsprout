@@ -162,7 +162,7 @@ jQuery(function ($) {
     /**
      * Copyright 2012, Digital Fusion
      * Licensed under the MIT license.
-     * //teamdf.com/jquery-plugins/license/
+     * http://teamdf.com/jquery-plugins/license/
      *
      * @author Sam Sehnert
      * @desc A small plugin that checks whether elements are within
@@ -1347,8 +1347,8 @@ jQuery(function ($) {
 (function ($) {
     'use strict';
 
-    // //paulirish.com/2011/requestanimationframe-for-smart-animating/
-    // //my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
+    // http://paulirish.com/2011/requestanimationframe-for-smart-animating/
+    // http://my.opera.com/emoller/blog/2011/12/20/requestanimationframe-for-smart-er-animating
     // requestAnimationFrame polyfill by Erik M?ller. fixes from Paul Irish and Tino Zijdel
     // MIT license
 
