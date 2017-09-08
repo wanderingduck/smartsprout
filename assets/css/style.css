@@ -13,7 +13,9 @@ p {
   word-wrap: break-word;
 }
 body {
+  line-height: 20.00000001px;
   color: #858585;
+  font-size: 14px;
 }
 a:hover {
   text-decoration: none;
@@ -14900,6 +14902,10 @@ h2.bd-postheader-5 a {
   margin-right: 10px;
   margin-left: 10px;
 }
+.bd-textblock-100 {
+  line-height: 20.00000001px;
+  font-size: 14px;
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazEwMA {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazEwMQ {}
 .bd-textblock-101 {
@@ -14949,6 +14955,10 @@ h2.bd-textblock-106 {
   margin-right: 10px;
   margin-left: 10px;
   margin-bottom: 20px;
+}
+.bd-textblock-107 {
+  line-height: 20.00000001px;
+  font-size: 14px;
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazEwNw {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazEwOA {}
@@ -15159,6 +15169,10 @@ h2.bd-textblock-146 {
   margin-right: 10px;
   margin-left: 10px;
 }
+.bd-textblock-147 {
+  line-height: 20.00000001px;
+  font-size: 14px;
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE0Nw {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE0OA {}
 .bd-textblock-148 {
@@ -15282,6 +15296,10 @@ h4.bd-textblock-16 {
     display: block;
   }
 }
+.bd-textblock-160 {
+  line-height: 20.00000001px;
+  font-size: 14px;
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE2MA {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE2Mg {}
 .bd-textblock-162 {
@@ -15313,6 +15331,10 @@ h2.bd-textblock-164 {
 .bd-textblock-165 {
   margin-right: 10px;
   margin-left: 10px;
+}
+.bd-textblock-165 {
+  line-height: 20.00000001px;
+  font-size: 14px;
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE2NQ {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazE2Ng {}
@@ -15631,6 +15653,12 @@ h2.bd-textblock-2 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazIxMQ {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazIxMQ {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazIxMg {}
+.bd-textblock-212 {
+  margin-bottom: 0;
+}
+.bd-containereffect-42 {
+  margin-bottom: 21px;
+}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazIxMg {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazIxMw {}
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazIxMw {}
@@ -15981,6 +16009,22 @@ h2.bd-textblock-26 {
   }
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazI5 {}
+#marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMwNw {}
+.bd-textblock-307 {
+  padding-left: 40px;
+}
+#marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMwNw {}
+#marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMwOQ {}
+.bd-textblock-309 {
+  padding-left: 40px;
+}
+.bd-textblock-309 {
+  margin-top: 0;
+}
+.bd-containereffect-56 {
+  margin-top: 21px;
+}
+#marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMwOQ {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazMx {}
 .bd-textblock-31 {
   margin-top: 17px;
@@ -16242,7 +16286,7 @@ h1.bd-textblock-60 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazYy {}
 .bd-textblock-62 {
   margin-top: 0px;
-  height: 190px;
+  height: 100%;
 }
 @media (max-width: 991px) {
   .bd-textblock-62 {
@@ -16266,7 +16310,7 @@ h1.bd-textblock-60 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazY1 {}
 .bd-textblock-65 {
   margin-top: 0px;
-  height: 230px;
+  height: 100%;
 }
 @media (max-width: 991px) {
   .bd-textblock-65 {
@@ -16294,7 +16338,7 @@ h1.bd-textblock-60 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazY5 {}
 .bd-textblock-69 {
   margin-top: 0px;
-  height: 114px;
+  height: 100%;
 }
 @media (max-width: 991px) {
   .bd-textblock-69 {
@@ -16329,7 +16373,7 @@ h2.bd-textblock-7 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazcz {}
 .bd-textblock-73 {
   margin-top: 0px;
-  height: 114px;
+  height: 100%;
 }
 @media (max-width: 991px) {
   .bd-textblock-73 {
@@ -16350,7 +16394,7 @@ h2.bd-textblock-7 {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXRleHRibG9jazc1 {}
 .bd-textblock-75 {
   margin-top: 0px;
-  height: 57px;
+  height: 100%;
 }
 @media (max-width: 1199px) {
   .bd-textblock-75 {
