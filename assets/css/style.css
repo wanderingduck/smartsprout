@@ -11579,8 +11579,8 @@ body.bd-homepage .bd-headerarea-1 {
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWltYWdlbGluazI {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWltYWdlbGluazIz {}
 .bd-imagelink-23 {
-  width: 300px;
   margin-top: 23px;
+  width: 270px;
   border-radius: 50%;
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLWltYWdlbGluazIz {}
@@ -15078,6 +15078,9 @@ h2.bd-postheader-5 a {
 }
 .bd-section-15 {
   color: #57d175;
+}
+.bd-section-15 h2 {
+  font-weight: normal;
 }
 .bd-section-15 h1 {
   text-align: left;
