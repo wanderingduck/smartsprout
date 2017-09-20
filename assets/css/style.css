@@ -15053,6 +15053,9 @@ h2.bd-postheader-5 a {
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24xNQ {}
 .bd-section-15 {
   height: 100%;
+  background-attachment: scroll;
+  background-size: 100% auto;
+  margin-top: 0px;
   background-color: #f2f2f2;
 }
 @media (max-width: 1199px) {
@@ -15207,6 +15210,16 @@ h2.bd-postheader-5 a {
   }
 }
 #marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24yMA {}
+#marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24yMQ {}
+.bd-section-21 {
+  background-image: url(../../assets/images/867ad695272ab769259bc4bc211ddf2f_undersmartsproutbanner.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center top;
+  margin-bottom: 0px;
+  height: 130px;
+}
+#marker-end-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24yMQ {}
 #marker-start-L3N0eWxlLmNzcw.L2NvbnRyb2xzL2JkLXNlY3Rpb24yMw {}
 .bd-section-23 {
   margin-top: 31px;
@@ -15222,6 +15235,7 @@ h2.bd-postheader-5 a {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center bottom;
+  margin-bottom: -75px;
 }
 .bd-section-25 h2 {
   line-height: 85.71428574px;
